@@ -1,0 +1,12 @@
+C:\Users\Miqueas\source\repos\ProyectoFinalDCU\ProyectoFinalDCU\bin\Debug\ProyectoFinalDCU.exe.config
+C:\Users\Miqueas\source\repos\ProyectoFinalDCU\ProyectoFinalDCU\bin\Debug\ProyectoFinalDCU.exe
+C:\Users\Miqueas\source\repos\ProyectoFinalDCU\ProyectoFinalDCU\bin\Debug\ProyectoFinalDCU.pdb
+C:\Users\Miqueas\source\repos\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\ProyectoFinalDCU.csproj.AssemblyReference.cache
+C:\Users\Miqueas\source\repos\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\ProyectoFinalDCU.Form1.resources
+C:\Users\Miqueas\source\repos\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\ProyectoFinalDCU.Pantalla_Principal.resources
+C:\Users\Miqueas\source\repos\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\ProyectoFinalDCU.Properties.Resources.resources
+C:\Users\Miqueas\source\repos\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\ProyectoFinalDCU.Registrar_Maestros.resources
+C:\Users\Miqueas\source\repos\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\ProyectoFinalDCU.csproj.GenerateResource.cache
+C:\Users\Miqueas\source\repos\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\ProyectoFinalDCU.csproj.CoreCompileInputs.cache
+C:\Users\Miqueas\source\repos\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\ProyectoFinalDCU.exe
+C:\Users\Miqueas\source\repos\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\ProyectoFinalDCU.pdb
